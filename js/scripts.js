@@ -124,3 +124,57 @@ function excercise21(cookies,dogs){
   console.log ('Cada perro recibirá ' + result + ' galletas')
 }
 excercise21(72,9)
+
+function excercise22(knives,price){
+  const result= knives * price
+  console.log ('Pagará en total ' + result + ' euros')
+}
+excercise22(5,18)
+
+function excercise23(cookies,bag){
+  const result= cookies / bag
+  console.log ('Llenará ' + result + ' bolsas de galletas')
+}
+excercise23(480,40)
+
+function excercise24(km,day){
+  const result= km / day
+  console.log ('Recorrió ' + result + ' km por día')
+}
+excercise24(1200,4)
+
+function excercise25(january,february){
+  const result= january = february
+  console.log ('Sabrina ahorro ' + result + ' euros')
+}
+excercise25(120,85)
+
+function excercise26(candies,friends){
+  const result= candies % friends
+  console.log ('Sobrarán ' + result + ' caramelos')
+}
+excercise26(73,6)
+
+function excercise27(morning,afternoon){
+  const result= morning + afternoon
+  console.log ('Registró ' + result + ' casas en total')
+}
+excercise27(17,8)
+
+function excercise28(photos,album){
+  const result= photos % album
+  console.log ('No podrá guardar ' + result + ' fotos')
+}
+excercise28(95,12)
+
+function excercise29(discount,price){
+  const result= price - discount
+  console.log ('El producto costará' + result + ' euros')
+}
+excercise29(15,120)
+
+function excercise30(flour,portions){
+  const result= flour % portions
+  console.log ('Sobrarán' + result + ' gramos de harina')
+}
+excercise30(500,24)
