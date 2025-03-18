@@ -144,7 +144,7 @@ function excercise24(km,day){
 excercise24(1200,4)
 
 function excercise25(january,february){
-  const result= january = february
+  const result= january + february
   console.log ('Sabrina ahorro ' + result + ' euros')
 }
 excercise25(120,85)
